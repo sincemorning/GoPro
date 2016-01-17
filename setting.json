@@ -1,0 +1,6 @@
+{
+    "setting":[
+        {"url":"http://qiita.com/advent-calendar/2013/","domtype":"a","id":"test"},
+        {"url":"https://godoc.org/","domtype":"b","id":"test2"}
+    ]
+}
